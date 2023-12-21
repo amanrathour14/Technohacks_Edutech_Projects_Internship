@@ -1,7 +1,7 @@
 
 # Technohacks_Edutech_Projects_Internship 
 
-🚀 Excited to share that I've successfully completed the projects assigned to me during my 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩  with TechnoHacks EduTech Official📱💻 
+🚀 Excited to share that I've successfully completed the projects assigned to me during my 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩  with TechnoHacks EduTech Official💻 
 
  
 
