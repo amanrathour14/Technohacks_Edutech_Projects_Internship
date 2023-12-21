@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <form id="registrationForm">
+        <h2>Registration Form</h2>
+
+        <label for="fname">First Name:</label><br>
+        <input type="text" id="fname" name="fname" required><br>
+        <p id="fnameError" class="error"></p>
+
+        <label for="lname">Last Name:</label><br>
+        <input type="text" id="lname" name="lname" required><br>
+        <p id="lnameError" class="error"></p>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <p id="emailError" class="error"></p>
+
+        <label for="pwd">Password:</label><br>
+        <input type="password" id="pwd" name="pwd" required><br>
+        <p id="pwdError" class="error"></p>
+
+        <label for="cpwd">Confirm Password:</label><br>
+        <input type="password" id="cpwd" name="cpwd" required><br>
+        <p id="cpwdError" class="error"></p>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>

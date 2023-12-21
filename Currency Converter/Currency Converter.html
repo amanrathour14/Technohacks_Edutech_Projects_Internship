@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="Currency Converter.css">
+</head>
+<body>
+    <div>
+    <center>
+    <h1>Currency Converter</h1>
+    <form id="converterForm">
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" name="amount" required>
+        <br>
+        <label for="fromCurrency">From:</label>
+        <select id="fromCurrency" name="fromCurrency" required>
+            <!-- Currency options will be added here by JavaScript -->
+        </select>
+        <br>
+        <label for="toCurrency">To:</label>
+        <select id="toCurrency" name="toCurrency" required>
+            <!-- Currency options will be added here by JavaScript -->
+        </select>
+        <br>
+        <button type="submit">Convert</button>
+    </form>
+    </center>
+    </div>
+    
+    <h2 id="result"></h2>
+    <script src="Currenct Converter.js"></script>
+</body>
+</html>
